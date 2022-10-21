@@ -10,3 +10,7 @@ Console.WriteLine("Hello, World!");
 // 6 - Välj Github konto
 // 7 - Välj Repository namn
 // 8 - Push!
+
+// Skapa en branch för att testa om vissa förändringar
+// blir bra, annars radera branchen. Då kan man testa 
+// utan att skada master branchen.
